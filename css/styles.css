@@ -72,6 +72,7 @@ padding: 0;
     padding: 0 0 0 14px;
     margin: 0;
 }
+
 .project-item-list{
 width: 163.91px;
 height: 48px;
@@ -166,9 +167,11 @@ font-style: normal;
     color: #000000;
     margin: 18px 0 0 0 ;
 }
+
 .work-experience-place {
-    margin: 12px;
+    margin: 12px 0;
 }
+
 .work-experience-company {
     color: #6D9BF5 ;
 }
@@ -186,13 +189,13 @@ font-style: normal;
     font-size: 14px;
     line-height: 24px;
     color: #595959;
+    margin-left: 16px;
 }
 .work-duties-list {
     margin: 0;
     padding: 0 ;
 }
 .work-experience-position-new {
-    margin: -10px;
     padding: 0 ;
 }
 
